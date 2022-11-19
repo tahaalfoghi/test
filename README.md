@@ -1,2 +1,3 @@
 # test
-some quitions about c language programming
+C programming exercise
+
